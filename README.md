@@ -44,7 +44,8 @@ It includes a widget named `CustomTextField` that supports:
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/jincykp/custom_form_field.git
-cd custom_form_field/example
+git clone https://github.com/jincykp/form_field_demo.git
+cd form_field_demo
 flutter pub get
 flutter run
+
